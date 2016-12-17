@@ -1,0 +1,21 @@
+body {
+	background-image: url(https://lonelyplanetimages.imgix.net/a/g/hi/t/9cf024dfd5c0bcb2b17f4785340145ea-san-francisco.jpg?sharp=10&vib=20&w=1200);
+	background-size: 100% 150%;
+	background-repeat: no-repeat;
+	background-position: 100% 35%;
+	background-attachment: fixed;
+}
+
+#jhund {
+	margin:0 0 0 30%; 
+	font-size: 400%;
+    font-family: 'Mirza', cursive;
+    color: #ff855d;
+}
+
+#bhinda {
+	margin:21% 0 0 25%; 
+	font-size: 250%;
+    font-family: 'Mirza', cursive;
+    color: #ff855d;
+}
